@@ -5,9 +5,9 @@ go 1.25.5
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/fclairamb/go-log v0.4.1
-	github.com/acore2026/chf v1.2.2-0.20260104073217-9fbf02ffd990
+	github.com/acore2026/chf v1.2.2
 	github.com/acore2026/openapi v1.2.4
-	github.com/acore2026/smf v1.4.1-0.20260104075605-df5818d03d12
+	github.com/acore2026/smf v1.4.2
 	github.com/acore2026/util v1.3.2
 	github.com/acore2026/webconsole v1.4.4
 	github.com/gin-contrib/cors v1.6.0
