@@ -3,13 +3,13 @@ module github.com/acore2026/webconsole
 go 1.25.5
 
 require (
-	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
-	github.com/fclairamb/go-log v0.4.1
 	github.com/acore2026/chf v1.2.2
 	github.com/acore2026/openapi v1.2.4
 	github.com/acore2026/smf v1.4.2
 	github.com/acore2026/util v1.3.2
 	github.com/acore2026/webconsole v1.4.4
+	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
+	github.com/fclairamb/go-log v0.4.1
 	github.com/gin-contrib/cors v1.6.0
 	github.com/gin-gonic/gin v1.10.0
 	github.com/golang-jwt/jwt/v5 v5.2.2
@@ -114,3 +114,6 @@ require (
 	google.golang.org/api v0.122.0 // indirect
 )
 
+replace github.com/free5gc/chf => github.com/acore2026/chf v1.2.2
+
+replace github.com/free5gc/smf => github.com/acore2026/smf v1.4.2
