@@ -13,8 +13,8 @@ import (
 	"github.com/fclairamb/ftpserver/server"
 	ftpserver "github.com/fclairamb/ftpserverlib"
 
-	"github.com/acore2026/webconsole/backend/factory"
-	"github.com/acore2026/webconsole/backend/logger"
+	"github.com/free5gc/webconsole/backend/factory"
+	"github.com/free5gc/webconsole/backend/logger"
 )
 
 // File permission constants

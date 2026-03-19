@@ -1,7 +1,7 @@
 package WebUI
 
 import (
-	"github.com/acore2026/openapi/models"
+	"github.com/free5gc/openapi/models"
 )
 
 type WebAuthenticationSubscription struct {

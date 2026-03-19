@@ -1,6 +1,6 @@
 package WebUI
 
-import "github.com/acore2026/openapi/models"
+import "github.com/free5gc/openapi/models"
 
 type SubsData struct {
 	PlmnID                            string                                     `json:"plmnID"`

@@ -7,13 +7,13 @@ import (
 
 	"golang.org/x/oauth2"
 
-	"github.com/acore2026/openapi"
-	"github.com/acore2026/openapi/models"
-	Nnrf_NFDiscovery "github.com/acore2026/openapi/nrf/NFDiscovery"
-	Nnrf_NFManagement "github.com/acore2026/openapi/nrf/NFManagement"
-	"github.com/acore2026/openapi/oauth"
-	"github.com/acore2026/webconsole/backend/factory"
-	"github.com/acore2026/webconsole/backend/logger"
+	"github.com/free5gc/openapi"
+	"github.com/free5gc/openapi/models"
+	Nnrf_NFDiscovery "github.com/free5gc/openapi/nrf/NFDiscovery"
+	Nnrf_NFManagement "github.com/free5gc/openapi/nrf/NFManagement"
+	"github.com/free5gc/openapi/oauth"
+	"github.com/free5gc/webconsole/backend/factory"
+	"github.com/free5gc/webconsole/backend/logger"
 )
 
 var webuiContext WEBUIContext

@@ -14,7 +14,7 @@ import (
 	"github.com/asaskevich/govalidator"
 	"github.com/google/uuid"
 
-	"github.com/acore2026/webconsole/backend/logger"
+	"github.com/free5gc/webconsole/backend/logger"
 )
 
 const (

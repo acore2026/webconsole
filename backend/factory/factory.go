@@ -11,7 +11,7 @@ import (
 	"github.com/asaskevich/govalidator"
 	"gopkg.in/yaml.v2"
 
-	"github.com/acore2026/webconsole/backend/logger"
+	"github.com/free5gc/webconsole/backend/logger"
 )
 
 var WebuiConfig *Config
