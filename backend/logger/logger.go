@@ -5,7 +5,7 @@ import (
 	adapter "github.com/fclairamb/go-log/logrus"
 	"github.com/sirupsen/logrus"
 
-	logger_util "github.com/free5gc/util/logger"
+	logger_util "github.com/acore2026/util/logger"
 )
 
 var (

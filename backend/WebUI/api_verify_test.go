@@ -10,9 +10,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/require"
 
-	"github.com/free5gc/openapi/models"
-	smf_factory "github.com/free5gc/smf/pkg/factory"
-	"github.com/free5gc/webconsole/backend/WebUI"
+	"github.com/acore2026/openapi/models"
+	smf_factory "github.com/acore2026/smf/pkg/factory"
+	"github.com/acore2026/webconsole/backend/WebUI"
 )
 
 func TestGetStaticIpPoolsFromUserPlaneInfomation(t *testing.T) {

@@ -3,8 +3,8 @@ package WebUI
 import (
 	"fmt"
 
-	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/util/milenage"
+	"github.com/acore2026/openapi/models"
+	"github.com/acore2026/util/milenage"
 )
 
 func WebAuthSubToModels(

@@ -6,10 +6,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/free5gc/openapi"
-	"github.com/free5gc/openapi/models"
-	Nnrf_NFManagement "github.com/free5gc/openapi/nrf/NFManagement"
-	"github.com/free5gc/webconsole/backend/logger"
+	"github.com/acore2026/openapi"
+	"github.com/acore2026/openapi/models"
+	Nnrf_NFManagement "github.com/acore2026/openapi/nrf/NFManagement"
+	"github.com/acore2026/webconsole/backend/logger"
 )
 
 // NF registration constants

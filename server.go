@@ -7,11 +7,11 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	logger_util "github.com/free5gc/util/logger"
-	"github.com/free5gc/util/version"
-	"github.com/free5gc/webconsole/backend/factory"
-	"github.com/free5gc/webconsole/backend/logger"
-	"github.com/free5gc/webconsole/backend/webui_service"
+	logger_util "github.com/acore2026/util/logger"
+	"github.com/acore2026/util/version"
+	"github.com/acore2026/webconsole/backend/factory"
+	"github.com/acore2026/webconsole/backend/logger"
+	"github.com/acore2026/webconsole/backend/webui_service"
 )
 
 // File system constants

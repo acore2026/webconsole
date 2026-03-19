@@ -9,11 +9,11 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
 
-	"github.com/free5gc/openapi/models"
-	smf_factory "github.com/free5gc/smf/pkg/factory"
-	"github.com/free5gc/util/mongoapi"
-	"github.com/free5gc/webconsole/backend/logger"
-	"github.com/free5gc/webconsole/backend/webui_context"
+	"github.com/acore2026/openapi/models"
+	smf_factory "github.com/acore2026/smf/pkg/factory"
+	"github.com/acore2026/util/mongoapi"
+	"github.com/acore2026/webconsole/backend/logger"
+	"github.com/acore2026/webconsole/backend/webui_context"
 )
 
 type VerifyScope struct {

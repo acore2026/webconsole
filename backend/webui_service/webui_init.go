@@ -14,12 +14,12 @@ import (
 	"github.com/gin-contrib/cors"
 	"github.com/sirupsen/logrus"
 
-	"github.com/free5gc/util/mongoapi"
-	"github.com/free5gc/webconsole/backend/WebUI"
-	"github.com/free5gc/webconsole/backend/billing"
-	"github.com/free5gc/webconsole/backend/factory"
-	"github.com/free5gc/webconsole/backend/logger"
-	"github.com/free5gc/webconsole/backend/webui_context"
+	"github.com/acore2026/util/mongoapi"
+	"github.com/acore2026/webconsole/backend/WebUI"
+	"github.com/acore2026/webconsole/backend/billing"
+	"github.com/acore2026/webconsole/backend/factory"
+	"github.com/acore2026/webconsole/backend/logger"
+	"github.com/acore2026/webconsole/backend/webui_context"
 )
 
 // Configuration constants

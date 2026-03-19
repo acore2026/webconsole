@@ -7,8 +7,8 @@ import (
 
 	"github.com/jlaffaye/ftp"
 
-	"github.com/free5gc/webconsole/backend/factory"
-	"github.com/free5gc/webconsole/backend/logger"
+	"github.com/acore2026/webconsole/backend/factory"
+	"github.com/acore2026/webconsole/backend/logger"
 )
 
 // Configuration constants

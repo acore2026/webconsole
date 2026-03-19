@@ -3,9 +3,9 @@ package webui_context
 import (
 	"fmt"
 
-	"github.com/free5gc/openapi/models"
-	Nnrf_NFDiscovery "github.com/free5gc/openapi/nrf/NFDiscovery"
-	"github.com/free5gc/webconsole/backend/logger"
+	"github.com/acore2026/openapi/models"
+	Nnrf_NFDiscovery "github.com/acore2026/openapi/nrf/NFDiscovery"
+	"github.com/acore2026/webconsole/backend/logger"
 )
 
 type NfInstance struct {
